@@ -12,6 +12,8 @@
 #### ECMAScript
 
 - [JavaScript. The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core)
+- [JavaScript Tutorial](http://javascript.info/) - 非常好的一个网路教材，讲解的系统而深入
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - 任何问题都可以在上面找到详尽的描述和例子
 
 #### ES6
 
