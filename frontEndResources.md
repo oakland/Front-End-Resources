@@ -21,3 +21,7 @@
 - [ES6 features](https://github.com/lukehoban/es6features)
 - [Understanding ECMAScript6 - by Nicholas C. Zakas](https://leanpub.com/understandinges6/read#leanpub-auto-destructured-parameters)
 - [ES6-Learning](https://github.com/ericdouglas/ES6-Learning), a collection of tutorials
+
+#### blogs
+
+- [JStips](http://www.jstips.co/)，每天一个 JS 小专题，写的很好，推荐指数 ++++-
