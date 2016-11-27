@@ -25,3 +25,7 @@
 #### blogs
 
 - [JStips](http://www.jstips.co/)，每天一个 JS 小专题，写的很好，推荐指数 ++++-
+
+#### libs and frameworks
+
+- [moment.js](http://momentjs.com/), Parse, validate, manipulate, and display dates in JavaScript.
