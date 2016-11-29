@@ -29,3 +29,9 @@
 #### libs and frameworks
 
 - [moment.js](http://momentjs.com/), Parse, validate, manipulate, and display dates in JavaScript.
+
+#### transcompile language
+
+- [Typescript](http://www.typescriptlang.org/)
+- [Traceur-compiler](https://github.com/google/traceur-compiler)
+- [Bable](http://babeljs.io/)
